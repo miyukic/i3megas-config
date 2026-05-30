@@ -68,6 +68,8 @@ z_offset: 1.802  （PROBE_CALIBRATE で実測、2026-05-30）
 | `cura_start_gcode_marlin.gcode` | Marlin 時代の Cura スタートGcode（リファレンス） |
 | `cura_end_gcode_marlin.gcode` | Marlin 時代の Cura エンドGcode（リファレンス） |
 
+Marlin 時代のスタートGcodeは [NilsRo/Cura_Anycubic_MegaS_Profile](https://github.com/NilsRo/Cura_Anycubic_MegaS_Profile) をベースに一部カスタムしたもの。
+
 ---
 
 ## 注意事項
